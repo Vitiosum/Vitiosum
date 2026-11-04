@@ -48,6 +48,13 @@ Every repo follows the same form:
 - the variables, the routes and a short code tour;
 - the page itself shows what the platform is doing: instance, add-on, network.
 
+<table>
+<tr>
+<td width="130" align="center"><a href="https://academy.clever.cloud/"><img src="assets/academy-badge.png" width="110" alt="Clever Cloud Academy certification badge"></a></td>
+<td><b>Get certified.</b> Every demo here carries the same invitation: learn to deploy your own apps on Clever Cloud the same way, and get certified.<br><br><a href="https://academy.clever.cloud/"><b>Get certified at the Clever Cloud Academy ↗</b></a></td>
+</tr>
+</table>
+
 EOF
   gallery
   cat <<'EOF'
