@@ -20,16 +20,19 @@ Data, storage and messaging	demo-nodejs-ferretdb	The app speaks MongoDB, FerretD
 Data, storage and messaging	ferretdb-test-client	MongoDB commands beside FerretDB's answers and PostgreSQL plans.
 Data, storage and messaging	ferretdb-v1-clevercloud-deploy	The MongoDB API on PostgreSQL, in 3 commands.
 Data, storage and messaging	ferretdb-v2-clevercloud-deploy	FerretDB v2 with DocumentDB and Cellar backups.
-Managed tools	demo-keycloak	Log in with OIDC, the token is printed as a passport.
 Managed tools	demo-matomo	A generative-art museum with cookieless analytics.
 Managed tools	demo-metabase	A year in three bakeries: signed embeds and SQL receipts.
 Managed tools	demo-azimutt	A MySQL schema charted like a coastline.
 Managed tools	demo-elastic	Every request is a ship, Elastic APM follows its voyage.
 Managed tools	demo-otoroshi-gateway	An API gateway as a toll plaza: badges, quotas, rate limits.
-Platform, compliance and migration	demo-network-groups	The public door is bricked up, the only way in is a private tunnel.
-Platform, compliance and migration	demo-config-provider	Two apps share one configuration: flip a switch, both follow.
-Platform, compliance and migration	demo-jenkins	Jenkins tests and deploys a Go app, every build is a crate.
-Platform, compliance and migration	demo-rust-hds	A patient file in the HDS zone, with 21 live hosting checks.
-Platform, compliance and migration	demo-metabase-kubernetes	Metabase on managed Kubernetes, in 5 commands.
-Platform, compliance and migration	Demo_Heroku_Nodejs-PG	Heroku's getting-started app, moved with one changed line.
-Platform, compliance and migration	supabase-to-clever-cloud	Leaving Supabase, measured: inventory, mapping, costs.
+Managed tools	demo-jenkins	Jenkins tests and deploys a Go app, every build is a crate.
+Security and compliance	demo-keycloak	Log in with OIDC, the token is printed as a passport.
+Security and compliance	demo-kms-notary	Every deed sealed with its own key, the master key never leaves Clever KMS.
+Security and compliance	demo-network-groups	The public door is bricked up, the only way in is a private tunnel.
+Security and compliance	demo-rust-hds	A patient file in the HDS zone, with 21 live hosting checks.
+Platform, operations and migration	demo-zero-downtime	A control tower counts every error while you deploy, roll back and scale.
+Platform, operations and migration	demo-iac-terraform	Staging and production in Terraform, the state kept in Cellar.
+Platform, operations and migration	demo-config-provider	Two apps share one configuration: flip a switch, both follow.
+Platform, operations and migration	demo-metabase-kubernetes	Metabase on managed Kubernetes, in 5 commands.
+Platform, operations and migration	Demo_Heroku_Nodejs-PG	Heroku's getting-started app, moved with one changed line.
+Platform, operations and migration	supabase-to-clever-cloud	Leaving Supabase, measured: inventory, mapping, costs.

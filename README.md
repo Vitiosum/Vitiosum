@@ -58,31 +58,41 @@ Every repo follows the same form:
 
 <table>
 <tr>
-<td width="33%" valign="top"><a href="https://github.com/Vitiosum/demo-keycloak"><img src="assets/demo-keycloak.jpg" alt="demo-keycloak"></a><br><a href="https://github.com/Vitiosum/demo-keycloak"><b>demo-keycloak</b></a><br><sub>Log in with OIDC, the token is printed as a passport.</sub></td>
 <td width="33%" valign="top"><a href="https://github.com/Vitiosum/demo-matomo"><img src="assets/demo-matomo.jpg" alt="demo-matomo"></a><br><a href="https://github.com/Vitiosum/demo-matomo"><b>demo-matomo</b></a><br><sub>A generative-art museum with cookieless analytics.</sub></td>
 <td width="33%" valign="top"><a href="https://github.com/Vitiosum/demo-metabase"><img src="assets/demo-metabase.jpg" alt="demo-metabase"></a><br><a href="https://github.com/Vitiosum/demo-metabase"><b>demo-metabase</b></a><br><sub>A year in three bakeries: signed embeds and SQL receipts.</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/Vitiosum/demo-azimutt"><img src="assets/demo-azimutt.jpg" alt="demo-azimutt"></a><br><a href="https://github.com/Vitiosum/demo-azimutt"><b>demo-azimutt</b></a><br><sub>A MySQL schema charted like a coastline.</sub></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="https://github.com/Vitiosum/demo-azimutt"><img src="assets/demo-azimutt.jpg" alt="demo-azimutt"></a><br><a href="https://github.com/Vitiosum/demo-azimutt"><b>demo-azimutt</b></a><br><sub>A MySQL schema charted like a coastline.</sub></td>
 <td width="33%" valign="top"><a href="https://github.com/Vitiosum/demo-elastic"><img src="assets/demo-elastic.jpg" alt="demo-elastic"></a><br><a href="https://github.com/Vitiosum/demo-elastic"><b>demo-elastic</b></a><br><sub>Every request is a ship, Elastic APM follows its voyage.</sub></td>
 <td width="33%" valign="top"><a href="https://github.com/Vitiosum/demo-otoroshi-gateway"><img src="assets/demo-otoroshi-gateway.jpg" alt="demo-otoroshi-gateway"></a><br><a href="https://github.com/Vitiosum/demo-otoroshi-gateway"><b>demo-otoroshi-gateway</b></a><br><sub>An API gateway as a toll plaza: badges, quotas, rate limits.</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/Vitiosum/demo-jenkins"><img src="assets/demo-jenkins.jpg" alt="demo-jenkins"></a><br><a href="https://github.com/Vitiosum/demo-jenkins"><b>demo-jenkins</b></a><br><sub>Jenkins tests and deploys a Go app, every build is a crate.</sub></td>
 </tr>
 </table>
 
-### Platform, compliance and migration
+### Security and compliance
 
 <table>
 <tr>
+<td width="33%" valign="top"><a href="https://github.com/Vitiosum/demo-keycloak"><img src="assets/demo-keycloak.jpg" alt="demo-keycloak"></a><br><a href="https://github.com/Vitiosum/demo-keycloak"><b>demo-keycloak</b></a><br><sub>Log in with OIDC, the token is printed as a passport.</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/Vitiosum/demo-kms-notary"><img src="assets/demo-kms-notary.jpg" alt="demo-kms-notary"></a><br><a href="https://github.com/Vitiosum/demo-kms-notary"><b>demo-kms-notary</b></a><br><sub>Every deed sealed with its own key, the master key never leaves Clever KMS.</sub></td>
 <td width="33%" valign="top"><a href="https://github.com/Vitiosum/demo-network-groups"><img src="assets/demo-network-groups.jpg" alt="demo-network-groups"></a><br><a href="https://github.com/Vitiosum/demo-network-groups"><b>demo-network-groups</b></a><br><sub>The public door is bricked up, the only way in is a private tunnel.</sub></td>
-<td width="33%" valign="top"><a href="https://github.com/Vitiosum/demo-config-provider"><img src="assets/demo-config-provider.jpg" alt="demo-config-provider"></a><br><a href="https://github.com/Vitiosum/demo-config-provider"><b>demo-config-provider</b></a><br><sub>Two apps share one configuration: flip a switch, both follow.</sub></td>
-<td width="33%" valign="top"><a href="https://github.com/Vitiosum/demo-jenkins"><img src="assets/demo-jenkins.jpg" alt="demo-jenkins"></a><br><a href="https://github.com/Vitiosum/demo-jenkins"><b>demo-jenkins</b></a><br><sub>Jenkins tests and deploys a Go app, every build is a crate.</sub></td>
 </tr>
 <tr>
 <td width="33%" valign="top"><a href="https://github.com/Vitiosum/demo-rust-hds"><img src="assets/demo-rust-hds.jpg" alt="demo-rust-hds"></a><br><a href="https://github.com/Vitiosum/demo-rust-hds"><b>demo-rust-hds</b></a><br><sub>A patient file in the HDS zone, with 21 live hosting checks.</sub></td>
-<td width="33%" valign="top"><a href="https://github.com/Vitiosum/demo-metabase-kubernetes"><img src="assets/demo-metabase-kubernetes.jpg" alt="demo-metabase-kubernetes"></a><br><a href="https://github.com/Vitiosum/demo-metabase-kubernetes"><b>demo-metabase-kubernetes</b></a><br><sub>Metabase on managed Kubernetes, in 5 commands.</sub></td>
-<td width="33%" valign="top"><a href="https://github.com/Vitiosum/Demo_Heroku_Nodejs-PG"><img src="assets/Demo_Heroku_Nodejs-PG.jpg" alt="Demo_Heroku_Nodejs-PG"></a><br><a href="https://github.com/Vitiosum/Demo_Heroku_Nodejs-PG"><b>Demo_Heroku_Nodejs-PG</b></a><br><sub>Heroku's getting-started app, moved with one changed line.</sub></td>
+</tr>
+</table>
+
+### Platform, operations and migration
+
+<table>
+<tr>
+<td width="33%" valign="top"><a href="https://github.com/Vitiosum/demo-zero-downtime"><img src="assets/demo-zero-downtime.jpg" alt="demo-zero-downtime"></a><br><a href="https://github.com/Vitiosum/demo-zero-downtime"><b>demo-zero-downtime</b></a><br><sub>A control tower counts every error while you deploy, roll back and scale.</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/Vitiosum/demo-iac-terraform"><img src="assets/demo-iac-terraform.jpg" alt="demo-iac-terraform"></a><br><a href="https://github.com/Vitiosum/demo-iac-terraform"><b>demo-iac-terraform</b></a><br><sub>Staging and production in Terraform, the state kept in Cellar.</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/Vitiosum/demo-config-provider"><img src="assets/demo-config-provider.jpg" alt="demo-config-provider"></a><br><a href="https://github.com/Vitiosum/demo-config-provider"><b>demo-config-provider</b></a><br><sub>Two apps share one configuration: flip a switch, both follow.</sub></td>
 </tr>
 <tr>
+<td width="33%" valign="top"><a href="https://github.com/Vitiosum/demo-metabase-kubernetes"><img src="assets/demo-metabase-kubernetes.jpg" alt="demo-metabase-kubernetes"></a><br><a href="https://github.com/Vitiosum/demo-metabase-kubernetes"><b>demo-metabase-kubernetes</b></a><br><sub>Metabase on managed Kubernetes, in 5 commands.</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/Vitiosum/Demo_Heroku_Nodejs-PG"><img src="assets/Demo_Heroku_Nodejs-PG.jpg" alt="Demo_Heroku_Nodejs-PG"></a><br><a href="https://github.com/Vitiosum/Demo_Heroku_Nodejs-PG"><b>Demo_Heroku_Nodejs-PG</b></a><br><sub>Heroku's getting-started app, moved with one changed line.</sub></td>
 <td width="33%" valign="top"><a href="https://github.com/Vitiosum/supabase-to-clever-cloud"><img src="assets/supabase-to-clever-cloud.jpg" alt="supabase-to-clever-cloud"></a><br><a href="https://github.com/Vitiosum/supabase-to-clever-cloud"><b>supabase-to-clever-cloud</b></a><br><sub>Leaving Supabase, measured: inventory, mapping, costs.</sub></td>
 </tr>
 </table>
