@@ -1,0 +1,35 @@
+section	repo	tagline
+Runtimes	demo-go	Every goroutine is a fish, the water rises with the heap.
+Runtimes	demo-rust-postgresql	Incidents on a radar, a breached SLA squawks 7700.
+Runtimes	demo-nodejs-postgresql	Every row is a card, psql is the librarian's typewriter.
+Runtimes	demo-php-frankenphp	Symfony in worker mode: the kernel never cools down.
+Runtimes	runrank	A pace calculator that engraves a medal for every rank.
+Runtimes	demo-react-vite	A night stadium served as plain files by Caddy.
+Runtimes	demo-dotnet-blazor	Blazor Server and SignalR: every browser is a plugged-in line.
+Runtimes	clevercloud-dotnet-minimal	Every record is a route: press a key, hear the HTTP answer.
+Runtimes	demo-java-mongodb	Spring Boot maps the sky over Paris, one document per object.
+Runtimes	demo-elixir-phoenix	A shared 64×64 wall, one BEAM process per visitor.
+Runtimes	demo-ruby-redis	A 20-second game where Redis runs the leaderboards.
+Runtimes	demo-docker	A Go photo booth printing strips with ImageMagick.
+Data, storage and messaging	demo-cellar-darkroom	Uploads straight to Cellar: public prints, private negatives.
+Data, storage and messaging	demo-python-mysql-cellar	FastAPI presses each specimen into MySQL and a private Cellar image.
+Data, storage and messaging	demo-fs-bucket	A logbook kept as plain files that survive every redeploy.
+Data, storage and messaging	demo-bun-materia-kv	One-time messages that burn after reading (TTL, GETDEL).
+Data, storage and messaging	demo-pulsar	A split-flap departures board fed live by a Pulsar topic.
+Data, storage and messaging	demo-nodejs-ferretdb	The app speaks MongoDB, FerretDB stores it in PostgreSQL.
+Data, storage and messaging	ferretdb-test-client	MongoDB commands beside FerretDB's answers and PostgreSQL plans.
+Data, storage and messaging	ferretdb-v1-clevercloud-deploy	The MongoDB API on PostgreSQL, in 3 commands.
+Data, storage and messaging	ferretdb-v2-clevercloud-deploy	FerretDB v2 with DocumentDB and Cellar backups.
+Managed tools	demo-keycloak	Log in with OIDC, the token is printed as a passport.
+Managed tools	demo-matomo	A generative-art museum with cookieless analytics.
+Managed tools	demo-metabase	A year in three bakeries: signed embeds and SQL receipts.
+Managed tools	demo-azimutt	A MySQL schema charted like a coastline.
+Managed tools	demo-elastic	Every request is a ship, Elastic APM follows its voyage.
+Managed tools	demo-otoroshi-gateway	An API gateway as a toll plaza: badges, quotas, rate limits.
+Platform, compliance and migration	demo-network-groups	The public door is bricked up, the only way in is a private tunnel.
+Platform, compliance and migration	demo-config-provider	Two apps share one configuration: flip a switch, both follow.
+Platform, compliance and migration	demo-jenkins	Jenkins tests and deploys a Go app, every build is a crate.
+Platform, compliance and migration	demo-rust-hds	A patient file in the HDS zone, with 21 live hosting checks.
+Platform, compliance and migration	demo-metabase-kubernetes	Metabase on managed Kubernetes, in 5 commands.
+Platform, compliance and migration	Demo_Heroku_Nodejs-PG	Heroku's getting-started app, moved with one changed line.
+Platform, compliance and migration	supabase-to-clever-cloud	Leaving Supabase, measured: inventory, mapping, costs.
