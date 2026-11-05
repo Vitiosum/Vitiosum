@@ -55,9 +55,7 @@ Every repo follows the same form:
 <td width="33%" valign="top"><a href="https://github.com/Vitiosum/demo-nodejs-ferretdb"><img src="assets/demo-nodejs-ferretdb.jpg" alt="demo-nodejs-ferretdb"></a><br><a href="https://github.com/Vitiosum/demo-nodejs-ferretdb"><b>demo-nodejs-ferretdb</b></a><br><sub>The app speaks MongoDB, FerretDB stores it in PostgreSQL.</sub></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="https://github.com/Vitiosum/ferretdb-test-client"><img src="assets/ferretdb-test-client.jpg" alt="ferretdb-test-client"></a><br><a href="https://github.com/Vitiosum/ferretdb-test-client"><b>ferretdb-test-client</b></a><br><sub>MongoDB commands beside FerretDB's answers and PostgreSQL plans.</sub></td>
 <td width="33%" valign="top"><a href="https://github.com/Vitiosum/ferretdb-v1-clevercloud-deploy"><img src="assets/ferretdb-v1-clevercloud-deploy.jpg" alt="ferretdb-v1-clevercloud-deploy"></a><br><a href="https://github.com/Vitiosum/ferretdb-v1-clevercloud-deploy"><b>ferretdb-v1-clevercloud-deploy</b></a><br><sub>The MongoDB API on PostgreSQL, in 3 commands.</sub></td>
-<td width="33%" valign="top"><a href="https://github.com/Vitiosum/ferretdb-v2-clevercloud-deploy"><img src="assets/ferretdb-v2-clevercloud-deploy.jpg" alt="ferretdb-v2-clevercloud-deploy"></a><br><a href="https://github.com/Vitiosum/ferretdb-v2-clevercloud-deploy"><b>ferretdb-v2-clevercloud-deploy</b></a><br><sub>FerretDB v2 with DocumentDB and Cellar backups.</sub></td>
 </tr>
 </table>
 
@@ -100,10 +98,9 @@ Every repo follows the same form:
 <tr>
 <td width="33%" valign="top"><a href="https://github.com/Vitiosum/demo-cke-harbour"><img src="assets/demo-cke-harbour.jpg" alt="demo-cke-harbour"></a><br><a href="https://github.com/Vitiosum/demo-cke-harbour"><b>demo-cke-harbour</b></a><br><sub>A Go service on managed Kubernetes: every pod is a crane, autoscaled at rush hour.</sub></td>
 <td width="33%" valign="top"><a href="https://github.com/Vitiosum/demo-config-provider"><img src="assets/demo-config-provider.jpg" alt="demo-config-provider"></a><br><a href="https://github.com/Vitiosum/demo-config-provider"><b>demo-config-provider</b></a><br><sub>Two apps share one configuration: flip a switch, both follow.</sub></td>
-<td width="33%" valign="top"><a href="https://github.com/Vitiosum/demo-metabase-kubernetes"><img src="assets/demo-metabase-kubernetes.jpg" alt="demo-metabase-kubernetes"></a><br><a href="https://github.com/Vitiosum/demo-metabase-kubernetes"><b>demo-metabase-kubernetes</b></a><br><sub>Metabase on managed Kubernetes, in 5 commands.</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/Vitiosum/Demo_Heroku_Nodejs-PG"><img src="assets/Demo_Heroku_Nodejs-PG.jpg" alt="Demo_Heroku_Nodejs-PG"></a><br><a href="https://github.com/Vitiosum/Demo_Heroku_Nodejs-PG"><b>Demo_Heroku_Nodejs-PG</b></a><br><sub>Heroku's getting-started app, moved with one changed line.</sub></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="https://github.com/Vitiosum/Demo_Heroku_Nodejs-PG"><img src="assets/Demo_Heroku_Nodejs-PG.jpg" alt="Demo_Heroku_Nodejs-PG"></a><br><a href="https://github.com/Vitiosum/Demo_Heroku_Nodejs-PG"><b>Demo_Heroku_Nodejs-PG</b></a><br><sub>Heroku's getting-started app, moved with one changed line.</sub></td>
 <td width="33%" valign="top"><a href="https://github.com/Vitiosum/supabase-to-clever-cloud"><img src="assets/supabase-to-clever-cloud.jpg" alt="supabase-to-clever-cloud"></a><br><a href="https://github.com/Vitiosum/supabase-to-clever-cloud"><b>supabase-to-clever-cloud</b></a><br><sub>Leaving Supabase, measured: inventory, mapping, costs.</sub></td>
 </tr>
 </table>

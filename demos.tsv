@@ -17,9 +17,7 @@ Data, storage and messaging	demo-fs-bucket	A logbook kept as plain files that su
 Data, storage and messaging	demo-bun-materia-kv	One-time messages that burn after reading (TTL, GETDEL).
 Data, storage and messaging	demo-pulsar	A split-flap departures board fed live by a Pulsar topic.
 Data, storage and messaging	demo-nodejs-ferretdb	The app speaks MongoDB, FerretDB stores it in PostgreSQL.
-Data, storage and messaging	ferretdb-test-client	MongoDB commands beside FerretDB's answers and PostgreSQL plans.
 Data, storage and messaging	ferretdb-v1-clevercloud-deploy	The MongoDB API on PostgreSQL, in 3 commands.
-Data, storage and messaging	ferretdb-v2-clevercloud-deploy	FerretDB v2 with DocumentDB and Cellar backups.
 Managed tools	demo-matomo	A generative-art museum with cookieless analytics.
 Managed tools	demo-metabase	A year in three bakeries: signed embeds and SQL receipts.
 Managed tools	demo-azimutt	A MySQL schema charted like a coastline.
@@ -35,6 +33,5 @@ Platform, operations and migration	demo-iac-terraform	Staging and production in 
 Platform, operations and migration	demo-workers-cron	A sorting office: the page posts the job, a worker delivers it, cron prints the report.
 Platform, operations and migration	demo-cke-harbour	A Go service on managed Kubernetes: every pod is a crane, autoscaled at rush hour.
 Platform, operations and migration	demo-config-provider	Two apps share one configuration: flip a switch, both follow.
-Platform, operations and migration	demo-metabase-kubernetes	Metabase on managed Kubernetes, in 5 commands.
 Platform, operations and migration	Demo_Heroku_Nodejs-PG	Heroku's getting-started app, moved with one changed line.
 Platform, operations and migration	supabase-to-clever-cloud	Leaving Supabase, measured: inventory, mapping, costs.
