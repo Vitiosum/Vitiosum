@@ -32,6 +32,8 @@ Security and compliance	demo-network-groups	The public door is bricked up, the o
 Security and compliance	demo-rust-hds	A patient file in the HDS zone, with 21 live hosting checks.
 Platform, operations and migration	demo-zero-downtime	A control tower counts every error while you deploy, roll back and scale.
 Platform, operations and migration	demo-iac-terraform	Staging and production in Terraform, the state kept in Cellar.
+Platform, operations and migration	demo-workers-cron	A sorting office: the page posts the job, a worker delivers it, cron prints the report.
+Platform, operations and migration	demo-cke-harbour	A Go service on managed Kubernetes: every pod is a crane, autoscaled at rush hour.
 Platform, operations and migration	demo-config-provider	Two apps share one configuration: flip a switch, both follow.
 Platform, operations and migration	demo-metabase-kubernetes	Metabase on managed Kubernetes, in 5 commands.
 Platform, operations and migration	Demo_Heroku_Nodejs-PG	Heroku's getting-started app, moved with one changed line.
