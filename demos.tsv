@@ -16,8 +16,6 @@ Data, storage and messaging	demo-python-mysql-cellar	FastAPI presses each specim
 Data, storage and messaging	demo-fs-bucket	A logbook kept as plain files that survive every redeploy.
 Data, storage and messaging	demo-bun-materia-kv	One-time messages that burn after reading (TTL, GETDEL).
 Data, storage and messaging	demo-pulsar	A split-flap departures board fed live by a Pulsar topic.
-Data, storage and messaging	demo-nodejs-ferretdb	The app speaks MongoDB, FerretDB stores it in PostgreSQL.
-Data, storage and messaging	ferretdb-v1-clevercloud-deploy	The MongoDB API on PostgreSQL, in 3 commands.
 Managed tools	demo-matomo	A generative-art museum with cookieless analytics.
 Managed tools	demo-metabase	A year in three bakeries: signed embeds and SQL receipts.
 Managed tools	demo-azimutt	A MySQL schema charted like a coastline.

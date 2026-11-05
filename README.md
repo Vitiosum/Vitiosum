@@ -52,10 +52,6 @@ Every repo follows the same form:
 <tr>
 <td width="33%" valign="top"><a href="https://github.com/Vitiosum/demo-bun-materia-kv"><img src="assets/demo-bun-materia-kv.jpg" alt="demo-bun-materia-kv"></a><br><a href="https://github.com/Vitiosum/demo-bun-materia-kv"><b>demo-bun-materia-kv</b></a><br><sub>One-time messages that burn after reading (TTL, GETDEL).</sub></td>
 <td width="33%" valign="top"><a href="https://github.com/Vitiosum/demo-pulsar"><img src="assets/demo-pulsar.jpg" alt="demo-pulsar"></a><br><a href="https://github.com/Vitiosum/demo-pulsar"><b>demo-pulsar</b></a><br><sub>A split-flap departures board fed live by a Pulsar topic.</sub></td>
-<td width="33%" valign="top"><a href="https://github.com/Vitiosum/demo-nodejs-ferretdb"><img src="assets/demo-nodejs-ferretdb.jpg" alt="demo-nodejs-ferretdb"></a><br><a href="https://github.com/Vitiosum/demo-nodejs-ferretdb"><b>demo-nodejs-ferretdb</b></a><br><sub>The app speaks MongoDB, FerretDB stores it in PostgreSQL.</sub></td>
-</tr>
-<tr>
-<td width="33%" valign="top"><a href="https://github.com/Vitiosum/ferretdb-v1-clevercloud-deploy"><img src="assets/ferretdb-v1-clevercloud-deploy.jpg" alt="ferretdb-v1-clevercloud-deploy"></a><br><a href="https://github.com/Vitiosum/ferretdb-v1-clevercloud-deploy"><b>ferretdb-v1-clevercloud-deploy</b></a><br><sub>The MongoDB API on PostgreSQL, in 3 commands.</sub></td>
 </tr>
 </table>
 
